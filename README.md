@@ -1,1 +1,1 @@
-# Sentiment-Analysis-for-Marketting-and-bad-reviews-detection-with-NLP
+# Sentiment-Analysis-and-prediction-on-reviews-for-Marketting-with-NLP
