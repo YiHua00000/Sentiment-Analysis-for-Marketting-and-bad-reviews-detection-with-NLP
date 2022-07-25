@@ -1,1 +1,1 @@
-# Sentiment-Analysis-and-prediction-on-reviews-for-Marketting-with-NLP
+# Sentiment-Analysis-and-prediction-on-reviews-for-Marketing-with-NLP
